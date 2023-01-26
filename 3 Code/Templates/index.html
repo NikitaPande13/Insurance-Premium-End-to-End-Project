@@ -1,0 +1,53 @@
+ <!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Insurance Price Prediction</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href="{{ url_for('static', filename='css/stylemain.css') }}">
+    <script src='main.js'></script>
+</head>
+
+<body>
+    <div class="register_page">
+        <div class="form">
+            <form action="{{url_for('predict')}}" method="POST">
+                <h3><center>Insurance Price Prediction</center></h3>
+                Age: <input type="number" step=any name='age' placeholder="Enter the age of person"><br>
+                
+                Gender:<select name="gender" placeholder="Enter your Gender" required>
+                <option value="1">Male</option>
+                <option value="0">Female</option></select>
+                <br>
+
+                BMI: <input type="number" step=any name='bmi' placeholder="Enter BMI"><br>
+
+                Children: <input type="number" step=any name='children' placeholder="Enter Children"><br>
+
+                Smoker:<select name="smoker"  required>
+                <option value="1">Yes</option>
+                <option value="0">No</option></select>
+                <br>
+
+                Region:<select name="region"  required>
+                    <option value="0">Northeast</option>
+                    <option value="1">Northwest</option>
+                    <option value="2">Southeast</option>
+                    <option value="3">Southwest</option></select>
+                    <br>
+    
+
+                <input type="submit" value="predict" class="submit">
+            </form>
+            <p> {{predict}}</p>
+        </div>
+
+    </div>
+
+
+    
+</body>
+
+</html>
