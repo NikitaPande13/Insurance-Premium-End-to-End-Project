@@ -82,5 +82,17 @@ Click [Here](https://docs.google.com/document/d/1UjUqYb0CuX_r8kCtCRqD67AwdopZiRb
 ## Project Report
 Click [Here](https://docs.google.com/presentation/d/1L_Bn0LRph2EsY5LYReoK8UMRgvuN6wi9/edit?usp=share_link&ouid=106567929719203605300&rtpof=true&sd=true)
 
-### Please feel free to inform me about any error or difficulty in my repository.
+## LinkedIn Post 📲
+[LinkedIn Post]
+
+## 📫 Feedback
+If you have any feedback, please reach out to me via [LinkedIn](www.linkedin.com/in/nikita-pande-01312)
+
+## 🎉 Help Me Improve
+Hello Mr./Miss. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap
+
+## Youtube Video 🎬
+[Video post](https://youtu.be/YgRDcolDEx8)
+
+
 # Thank You
