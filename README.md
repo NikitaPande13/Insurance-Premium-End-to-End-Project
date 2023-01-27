@@ -10,7 +10,7 @@ The goal of this study was to evaluate the effectiveness of machine-learning met
 - This could help someone concentrate on the positive aspects of having insurance instead of worrying about the expenses associated with it.
 
 ## Dataset 📀
-![insurance_dataset.csv](https://drive.google.com/file/d/12G7OR5cTJmwewkgcIgdBzGoPb0vm84Oo/view?usp=share_link)
+[insurance_dataset.csv](https://drive.google.com/file/d/12G7OR5cTJmwewkgcIgdBzGoPb0vm84Oo/view?usp=share_link)
 
 ### The features columns are as follow.
 ![image](https://user-images.githubusercontent.com/106645403/215012126-8abad924-5414-41e5-9958-1840a47c1bd0.png)
@@ -80,7 +80,7 @@ Click [Here](https://docs.google.com/document/d/1UjUqYb0CuX_r8kCtCRqD67AwdopZiRb
 
 
 ## Project Report
-Click [Here](https://docs.google.com/document/d/1UjUqYb0CuX_r8kCtCRqD67AwdopZiRbe/edit?usp=share_link&ouid=106567929719203605300&rtpof=true&sd=true)
+Click [Here](https://docs.google.com/presentation/d/1L_Bn0LRph2EsY5LYReoK8UMRgvuN6wi9/edit?usp=share_link&ouid=106567929719203605300&rtpof=true&sd=true)
 
 ### Please feel free to inform me about any error or difficulty in my repository.
 # Thank You
