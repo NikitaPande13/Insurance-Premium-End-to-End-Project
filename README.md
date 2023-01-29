@@ -94,5 +94,8 @@ Hello Mr./Miss. Reader, if you find any bug or anything else that could add more
 ## Youtube Video 🎬
 [Video post](https://youtu.be/YgRDcolDEx8)
 
+## Medium.com blog link
+[blog]https://medium.com/@pandenikita5/insurance-prediction-project-report-5e14342e08e9
+
 
 # Thank You
